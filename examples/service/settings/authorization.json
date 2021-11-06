@@ -1,0 +1,8 @@
+{
+    "users":{
+        "admin":{
+            "name":"admin",
+            "is_admin":true
+        }
+    }
+}

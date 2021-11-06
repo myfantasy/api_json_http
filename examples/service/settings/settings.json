@@ -1,0 +1,13 @@
+{
+    "settings_mount_point":"settings",
+    "zip_level":7,
+    "storage":{
+        "mounts": {
+            "settings": {
+                "provider": "file_dbl_save",
+                "home_path": "settings/",
+                "params": {}
+            }
+        }
+    }
+}

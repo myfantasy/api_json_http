@@ -1,0 +1,16 @@
+{
+    "connections":{
+        "admin":{
+            "auth_type":"simple",
+            "user_name_request":"admin",
+            "secret_info":{
+                "pwd":"123"
+            },
+            "server":"http://localhost:7499",
+            "ignore_ssl_validation":true,
+            "query_wait":5000000000,
+            "max_conns_per_host":6,
+            "max_idle_conn_duration":20000000000
+        }
+    }
+}
